@@ -1,5 +1,12 @@
 # Azure-Cloud-Security-Implementation-Lab
 
+##  Description
+This project was completed as part of my **D485 Cloud Security Final Assessment**.  
+I was allotted **4 hours** to complete the lab, but successfully finished it in **2 hours**.  
+The lab demonstrates applied cloud security skills in a hybrid Azure environment, aligned to compliance and business continuity requirements. It was one of my favorite assignments in my degree. 
+
+---
+
 ##  Objective
 A hands-on lab completed in a Windows 11 VM using the Azure portal to implement:
 - Role-Based Access Control (RBAC)

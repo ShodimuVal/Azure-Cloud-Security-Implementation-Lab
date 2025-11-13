@@ -1,4 +1,4 @@
-# Cloud Security Implementation Plan (Masters Project)
+# Cloud Security Implementation Plan 
 
 ##  Description
 This project focused on implementing a secure hybrid cloud environment using Microsoft Azure.  
